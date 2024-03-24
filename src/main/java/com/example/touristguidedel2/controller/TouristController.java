@@ -1,4 +1,4 @@
-package com.example.touristguidedel2.Controller;
+package com.example.touristguidedel2.controller;
 
 import com.example.touristguidedel2.service.TouristService;
 import org.springframework.beans.factory.annotation.Autowired;

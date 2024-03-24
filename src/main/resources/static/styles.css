@@ -2,12 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-image: url('images/Nyhavn-2023.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #4b4b4b;
+    color: #ffffff;
     padding: 20px;
     text-align: center;
 }
@@ -26,14 +28,19 @@ ul {
 }
 
 li {
-    margin-bottom: 10px;
+    margin-bottom: 9px;
+}
+
+li a {
+    font-size: 23px;
+    color: #fafafa;
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #4b4b4b;
+    color: #ffffff;
     text-align: center;
-    padding: 10px;
+    padding: 1px;
     position: fixed;
     bottom: 0;
     width: 100%;
